@@ -6,6 +6,14 @@
 
 - Cache
 - Tags
+- Nested Object
+- Mustache Template File
+- Section
+- Inverted Sections
+- List
+- Functions
+- Comment
+- Partials
 
 <br />
 
